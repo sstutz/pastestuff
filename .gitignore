@@ -1,0 +1,7 @@
+client/elm-stuff
+
+server/assets/rice-box.go
+server/vendor/
+
+dist/
+client/dist
